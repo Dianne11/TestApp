@@ -1,0 +1,28 @@
+#LabExercise3 Hashtables
+Instructions
+Create a hashtable that has the following operations:
+- insert(i)
+- search(i)
+- delete(i)
+There should be two implementations:
+- closed hashing / linear probing
+- open hashing / chaining
+Assume for now that the hash function will just be the one we discussed (item % number of items that the array has space for) and in this case, assume that the number of items is just 10.
+Also, no need to resize the hashtable. So just assume that the number of items will not go beyond 10 (so you don't have to do the resizing once more than half the spaces are filled)
+
+
+
+
+
+Hi guys! Really not feeling well so unfortunately I don't think I can meet you tomorrow even though second to the last lecture na ta ni :( please read lang ahead on shortest path algorithms and complete the lab exercise from last week. See you next week!
+
+
+
+
+https://www.youtube.com/watch?v=shs0KM3wKv8&feature=youtu.be&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt - HackerRank Data Structures playlist
+
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/ - online course
+
+
+lecture vid 11
